@@ -1,0 +1,2 @@
+let wage;
+let hours;
